@@ -11,4 +11,5 @@ int main()
         printf("constant");
     }
     return 0;
+
 }
